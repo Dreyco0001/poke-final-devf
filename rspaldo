@@ -1,0 +1,14 @@
+ src="https://pa1.narvii.com/6251/60af6b8ca7e65671a743d670943572a1648647e7_hq.gif"
+
+ .App {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1abaa1de-26c7-4bc4-89a0-2a1562ddd09f/d2m36go-061502ed-cfc4-47fd-a3cb-27e97eb78239.jpg/v1/fill/w_900,h_888,q_75,strp/pokemon_texture_by_taniac_d2m36go-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODg4IiwicGF0aCI6IlwvZlwvMWFiYWExZGUtMjZjNy00YmM0LTg5YTAtMmExNTYyZGRkMDlmXC9kMm0zNmdvLTA2MTUwMmVkLWNmYzQtNDdmZC1hM2NiLTI3ZTk3ZWI3ODIzOS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-_GhuYgCzC4nbwJjTpk8Znam5M9EoWCy1HjGkbRTIGk);
+}
+
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// jest-dom adds custom jest matchers for asserting on DOM nodes.
+// allows you to do things like:
+// expect(element).toHaveTextContent(/react/i)
+// learn more: https://github.com/testing-library/jest-dom

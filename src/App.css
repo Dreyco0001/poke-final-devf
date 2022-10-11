@@ -1,0 +1,91 @@
+.App {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1abaa1de-26c7-4bc4-89a0-2a1562ddd09f/d2m36go-061502ed-cfc4-47fd-a3cb-27e97eb78239.jpg/v1/fill/w_900,h_888,q_75,strp/pokemon_texture_by_taniac_d2m36go-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODg4IiwicGF0aCI6IlwvZlwvMWFiYWExZGUtMjZjNy00YmM0LTg5YTAtMmExNTYyZGRkMDlmXC9kMm0zNmdvLTA2MTUwMmVkLWNmYzQtNDdmZC1hM2NiLTI3ZTk3ZWI3ODIzOS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-_GhuYgCzC4nbwJjTpk8Znam5M9EoWCy1HjGkbRTIGk);
+}
+.header-bar {
+  font-family: "Lucida Bright";
+  background-color: #b90000;
+}
+.contenedor {
+  height: auto;
+  font-family: "Verdana";
+ 
+  min-height: 100vh;
+}
+.card {
+  background-color: #ff0000;
+  -webkit-box-shadow: 0px 1px 15px -4px #000000;
+  box-shadow: 0px 1px 15px -4px #000000;
+}
+.tipos {
+  font-size: 12px;
+  -webkit-box-shadow: 0px 0px 15px -1px #ffffff;
+  box-shadow: 0px 0px 15px -1px #ffffff;
+}
+#ground {
+  background-color: #8b4513;
+  color: white;
+}
+#water {
+  background-color: #1e90ff;
+  color: white;
+}
+#grass {
+  background-color: green;
+  color: white;
+}
+#electric {
+  background-color: #ffd700;
+  color: black;
+}
+#flying {
+  background-color: #66cdaa;
+  color: black;
+}
+#poison {
+  background-color: blueviolet;
+  color: white;
+}
+#bug {
+  background-color: #32cd32;
+  color: black;
+}
+#steel {
+  background-color: #c0c0c0;
+  color: black;
+}
+#fire {
+  background-color: orange;
+  color: black;
+}
+#dragon {
+  background-color: #ff4500;
+  color: black;
+}
+#normal {
+  background-color: #fff8dc;
+  color: black;
+}
+#fighting {
+  background-color: #dc143c;
+}
+#rock {
+  background-color: #708090;
+  color: white;
+}
+#ghost {
+  background-color: #9400d3;
+  color: white;
+}
+#psychic {
+  background-color: pink;
+}
+#ice {
+  background-color: aqua;
+}
+#dark {
+  background-color: black;
+  color: white;
+}
+#fairy {
+  background-color: #ffb6c1;
+}
